@@ -185,7 +185,7 @@ const Page = () => {
                   <FaStar />
                   </div>
 
-                  <p className='w-[298.67px] h-[135px] font-normal size-[18px] leading-[27px] '>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                  <p className='w-[298.67px] h-[135px] font-normal size-[18px] leading-[27px] '>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
 
                   <div className='w-[35px] h-[56px] gap-[20px] '>
                     <div className='flex'>
@@ -214,7 +214,7 @@ const Page = () => {
                   <FaStar />
                   </div>
 
-                  <p className='w-[298.67px] h-[135px] font-normal size-[18px] leading-[27px] '>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                  <p className='w-[298.67px] h-[135px] font-normal size-[18px] leading-[27px] '>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
 
                   <div className='w-[35px] h-[56px] gap-[20px] '>
                     <div className='flex'>
@@ -244,7 +244,7 @@ const Page = () => {
                   <FaStar />
                   </div>
 
-                  <p className='w-[298.67px] h-[135px] font-normal size-[18px] leading-[27px] '>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                  <p className='w-[298.67px] h-[135px] font-normal size-[18px] leading-[27px] '>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
 
                   <div className='w-[35px] h-[56px] gap-[20px] '>
                     <div className='flex'>
